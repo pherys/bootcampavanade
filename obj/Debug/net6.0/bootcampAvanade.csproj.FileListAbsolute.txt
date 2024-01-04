@@ -1,0 +1,15 @@
+C:\bootcampAvanade\bin\Debug\net6.0\bootcampAvanade.exe
+C:\bootcampAvanade\bin\Debug\net6.0\bootcampAvanade.deps.json
+C:\bootcampAvanade\bin\Debug\net6.0\bootcampAvanade.runtimeconfig.json
+C:\bootcampAvanade\bin\Debug\net6.0\bootcampAvanade.dll
+C:\bootcampAvanade\bin\Debug\net6.0\bootcampAvanade.pdb
+C:\bootcampAvanade\obj\Debug\net6.0\bootcampAvanade.csproj.AssemblyReference.cache
+C:\bootcampAvanade\obj\Debug\net6.0\bootcampAvanade.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcampAvanade\obj\Debug\net6.0\bootcampAvanade.AssemblyInfoInputs.cache
+C:\bootcampAvanade\obj\Debug\net6.0\bootcampAvanade.AssemblyInfo.cs
+C:\bootcampAvanade\obj\Debug\net6.0\bootcampAvanade.csproj.CoreCompileInputs.cache
+C:\bootcampAvanade\obj\Debug\net6.0\bootcampAvanade.dll
+C:\bootcampAvanade\obj\Debug\net6.0\refint\bootcampAvanade.dll
+C:\bootcampAvanade\obj\Debug\net6.0\bootcampAvanade.pdb
+C:\bootcampAvanade\obj\Debug\net6.0\bootcampAvanade.genruntimeconfig.cache
+C:\bootcampAvanade\obj\Debug\net6.0\ref\bootcampAvanade.dll
